@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/SpeechKITT/0.3.0/speechkitt.min.js"></script>
+    
 </head>
 <script>
 
@@ -29,11 +30,11 @@
 }*/
 
 </script>
-<body class="d-flex flex-column min-vh-100" onclick="setTimeout(gfg, 2000);">
+<body class="d-flex flex-column min-vh-100 " onclick="setTimeout(gfg, 2000);">
 
 <script>
         function gfg() {
-            speechSynthesis.speak(new SpeechSynthesisUtterance("soy marcos, esta web incorpora SISTEMA DE RECONOCIMIENTO DE VOZ PARA PERSONAS EN CONDICIÓN DE DISCAPACIDAD MOTRIZ"));
+            speechSynthesis.speak(new SpeechSynthesisUtterance("soy miguel, esta web incorpora SISTEMA DE RECONOCIMIENTO DE VOZ PARA PERSONAS EN CONDICIÓN DE DISCAPACIDAD MOTRIZ"));
             speechSynthesis.pause();
         }
 </script>

@@ -25,3 +25,12 @@ if ($vista[0] != "index.php") {
 // FOOTER
 include_once "./views/templates/footer.php";
 // FIN FOOTER
+/*
+echo "# tp_PHP_Final_2023" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/MVC3520/tp_PHP_Final_2023.git
+  git push -u origin main
+  */

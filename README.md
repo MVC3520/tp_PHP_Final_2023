@@ -1,2 +1,3 @@
-# tp-entornos
-Trabajo práctico, cátedra entornos gráficos grupo 3
+# tp-codo-a-codo-php-2023
+
+Trabajo práctico, curso codo a codo full stack php grupo 9
